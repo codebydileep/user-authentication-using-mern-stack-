@@ -101,7 +101,7 @@ In This project I learnt about MERN-Stack Application for Authentication:
 _____________________________________________________________________________________________________________________________________________________________________
 
 ## For any query? ping me!
- **Name 👨‍💻: Dileep**
- **Email 📧: deleep.me@gmail.com**
+ Name 👨‍💻: Dileep
+ Email 📧: deleep.me@gmail.com
 
  
